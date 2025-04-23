@@ -23,11 +23,11 @@ This project is a PHP-based Email Notifications System that allows an admin to m
 
 ## Contact
 
-👨‍💻 Developed by Adil Khoso
-📧 Email: aaadi5362@gmail.com
-🌐 GitHub: [Adil-Khoso](https://github.com/Adil-Ahmed-1)
-🏢 Institute: Hidaya Institute of Science and Technology (HIST), Jamshoro
-🎓 Best Academic Award Winner | PHP Web Developer | Full Stack Learner
+-👨‍💻 Developed by: Adil Khoso
+-📧 Email: aaadi5362@gmail.com
+-🌐 GitHub: [Adil-Khoso](https://github.com/Adil-Ahmed-1)
+-🏢 Institute: Hidaya Institute of Science and Technology (HIST), Jamshoro
+-🎓 Best Academic Award Winner | PHP Web Developer | Full Stack Learner
 ## Login
 <img width="757" alt="image" src="https://github.com/user-attachments/assets/f093584e-6861-4e6a-ba7c-b1a1cde67bf0" />
 
@@ -36,5 +36,10 @@ This project is a PHP-based Email Notifications System that allows an admin to m
 
 ## User-dashboard
 <img width="953" alt="image" src="https://github.com/user-attachments/assets/9fb2b89b-e935-4db5-b364-e14d8b248c70" />
+## Message Sent 
+<img width="953" alt="image" src="https://github.com/user-attachments/assets/f32e2a46-4fff-427f-b468-1e2a0c122f4a" />
+
+## Gmail Account sent Notification
+<img width="910" alt="image" src="https://github.com/user-attachments/assets/e253a6f5-3ed6-4a08-8d98-9b7523a20dbe" />
 
 
