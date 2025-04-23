@@ -41,5 +41,7 @@ This project is a PHP-based Email Notifications System that allows an admin to m
 
 ## Gmail Account sent Notification
 <img width="910" alt="image" src="https://github.com/user-attachments/assets/e253a6f5-3ed6-4a08-8d98-9b7523a20dbe" />
+## License
 
+This project is licensed under the [MIT License](LICENSE).
 
